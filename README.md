@@ -1,1 +1,1 @@
-src/index.html
+firedemo/src/index.html
